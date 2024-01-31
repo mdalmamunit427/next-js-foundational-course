@@ -15,6 +15,15 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+## Try it out
+Now, try it out. You should be able to log in and out of your application using the following credentials:
+
+```
+Email: user@nextmail.com
+Password: 123456
+```
+
+
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
